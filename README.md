@@ -8,9 +8,6 @@
 - Background Pendidikan
 ![img 2](./asset/Pendidikan.png)
 
-- Background Pendidikan
-![img 2](./asset/Pendidikan.png)
-
 - Karya
 ![img 3](./asset/Karya_SS.png)
 
