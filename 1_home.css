@@ -1,0 +1,95 @@
+/* home */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*,
+html,
+body {
+    margin : 0;
+    padding : 0;
+    font-family: 'Poppins', sans-serif;
+}
+:root {
+    --one-bg : url("./asset/2.jpg");
+    --bg-1: 
+}
+.container {
+    background-image: var(--one-bg);
+    background-color:rgb(243, 20, 20);
+    background-size: cover;
+    height: 100vh;
+    width: auto;
+    padding: 30px;
+}
+.header {
+    width: 100%;
+    height: auto;
+    color : white;
+}
+.menu {
+    width: 40%;
+    height: auto;
+    justify-content: end;
+}
+.logo {
+    width : 60%;
+}
+.d-flex {
+    display: flex;
+}
+.padding-button {
+    padding : 5px 7px 5px 7px;
+}
+.margin-button {
+    margin: 0px 10px;
+}
+.isi-home {
+    padding-top: 60px;
+    padding-left: 100px;
+}
+li {
+    padding : 2px;
+}
+ul, li, a {
+    text-decoration: none;
+    color : white;
+}
+h1 {
+    margin-bottom: 15px;
+    font-size: 3em;
+    color : white;
+}
+p {
+    line-height: 28px;
+    color : white;
+}
+.btn1 {
+    margin-top: 15px;
+    background-color: #2f1756;
+    padding: 15px;
+    border-radius: 6px;
+    border: 0;
+    font-size: medium;
+    cursor: pointer;
+    color : white;
+    margin-right: 20px;
+}
+.btn2 {
+    margin-top: 15px;
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 6px;
+    border: 0;
+    font-size: medium;
+    cursor: pointer;
+    color : #2f1756;
+}
+.btn1:hover{
+    background-color: white;
+    color: #2f1756;
+    transition: .3s ease-in-out;
+}
+.btn2:hover{
+    background-color: #2f1756;
+    color: white;
+    transition: .3s ease-in-out;
+}
