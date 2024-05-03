@@ -112,14 +112,3 @@ i {
 p {
     font-weight: 500;
 }
-
-@media screen and (max-width: 900px) {
-    p {
-      font-size: smaller;
-      color: green;
-    }
-    h1 {
-      font-size: smaller;
-      color: green;
-    }
-}
