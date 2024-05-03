@@ -4,4 +4,4 @@
 
 - Home
 
-![img 1](asset/art.png)
+![img 1](./asset/art.jpg)
